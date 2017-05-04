@@ -1,0 +1,45 @@
+/* Personal CSS */
+
+.main{
+    padding: 20px;
+}
+.stuff {
+    padding: 1rem;
+}
+
+.other {
+    padding: 1rem;
+}
+
+.l1rem {
+    padding-left: 1rem;
+}
+
+
+.footer {
+    text-align: center;
+    background: #1EAEDB;
+    border-radius: 6px;
+    margin top: 1rem;
+    color: white;
+}
+
+nav {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    background: #1EAEDB;
+    color: white;
+    border-radius: 10px;
+    margin: 1rem 0 1rem 0;
+    padding 10px 0 10px 0
+}
+
+
+li { 
+    display: inline-block;
+}
+
+
