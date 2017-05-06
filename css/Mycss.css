@@ -25,14 +25,15 @@
 
 nav {
     text-align: center;
+    
 }
 
 .title {
     text-align: center;
     background: #1EAEDB;
     color: white;
-    margin: 1rem 0 1rem 0;
-    padding 10px 0 10px 0
+    margin-bottom:;
+    padding:;
 }
 
 
@@ -40,4 +41,30 @@ li {
     display: inline-block;
 }
 
+.header {
+  height: 81vh;
+  background-image:url("C:/Users/dapitts/Desktop/Website/Skeleton_Test/images/potatoes.jpg");
+  background-size: cover;
+  background-position: center;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 2rem;
+}
 
+.header2 {
+  height: 81vh;
+  background-image:url(C:/Users/dapitts/Desktop/Website/Skeleton_Test/images/charcuterie.jpg);
+  background-size: cover;
+  background-position: center;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 2rem;
+}
